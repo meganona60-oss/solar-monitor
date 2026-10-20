@@ -1,0 +1,6 @@
+{
+  "versionCode": 4,
+  "versionName": "1.4",
+  "url": "https://github.com/meganona60-oss/solar-monitor/releases/download/v1.4/CPHSL-1.4.apk",
+  "notes": "Readings about every 5 seconds, quicker reconnects, background and bridge as separate switches, one merged log per inverter, faster Firebase, and a working updater."
+}
